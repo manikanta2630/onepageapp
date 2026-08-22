@@ -8,6 +8,4 @@ the page
 is under my control
 this is me 
 and u
-yesterday was happy 
-.....
-but not today
+
